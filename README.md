@@ -7,8 +7,10 @@ ShellForge is a Unix-like shell developed as part of the Operating Systems and S
 - Makefile-based build
 - Git repository
 - Linux development environment
+
 ## Build
 make
+
 ## Run
 make run
 
@@ -18,3 +20,12 @@ make run
 - Memory allocation using malloc()
 - Automatic buffer expansion using realloc()
 - Proper memory cleanup using free()
+
+Note: Go to Github ReadMe, edit and add the content/ here above features and click on commit changes to view updated ReadMe file.
+
+## Week 3 Features
+
+- Command parsing using strtok()
+- Dynamic argv[] construction
+- Modular parser implementation
+- Ready for process execution with execvp()
